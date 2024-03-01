@@ -241,7 +241,7 @@ footer a {
 
 img.image-circle {
   width: 100%;
-  margin: 88px 139px;
+  margin: 90px 76px;
 }
 .image {
   width: 314px;
@@ -316,4 +316,8 @@ section.box-2 {
 
 .line {
   width: 16em;
+}
+
+p {
+  padding: 0 25px;
 }
