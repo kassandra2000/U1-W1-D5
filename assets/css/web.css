@@ -11,6 +11,7 @@ body {
   font-variation-settings: "width" 100;
   line-height: 1.65;
   font-weight: 470;
+  max-width: 100%;
 }
 
 h1,
@@ -243,7 +244,7 @@ img.image-circle {
   margin: 88px 139px;
 }
 .image {
-      width: 314px;
+  width: 314px;
 }
 
 .padding {
@@ -267,45 +268,49 @@ p {
 }
 
 #posizione {
-    position: relative;
-    top: -250px;
-    left: 458px 
+  position: relative;
+  top: -250px;
+  left: 458px;
 }
-#section{
-    height: 779px;
+#section {
+  height: 779px;
 }
 
 .orange h1,
 .orange p,
 .orange h3,
-.orange blockquote{
-    text-align: center;
+.orange blockquote {
+  text-align: center;
 }
 
 .box-1,
 .box-2,
-.box-3{
-    display: inline-block;
-    width: 300px;
+.box-3 {
+  display: inline-block;
+  width: 300px;
 }
 
-section.box-2{
-    margin: 0 ;
+section.box-2 {
+  margin: 0;
 }
 
-#box3{
-    height: 422px;
-    position: relative;
-    top: -44px;
-    padding-bottom: 24px;
+#box3 {
+  height: 422px;
+  position: relative;
+  top: -44px;
+  padding-bottom: 24px;
 }
 
- .center{ 
-   position: relative;
-   left: 100px;
-} 
+.center {
+  position: relative;
+  left: 100px;
+}
 
 .position,
-.position2{
-    padding: 0;
+.position2 {
+  padding: 0;
+}
+
+.line {
+  width: 16em;
 }
