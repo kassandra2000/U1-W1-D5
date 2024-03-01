@@ -271,6 +271,8 @@ p {
   position: relative;
   top: -250px;
   left: 458px;
+  display: inline-block;
+  width: 880px;
 }
 #section {
   height: 779px;
@@ -304,6 +306,7 @@ section.box-2 {
 .center {
   position: relative;
   left: 100px;
+  display: inline-block;
 }
 
 .position,
