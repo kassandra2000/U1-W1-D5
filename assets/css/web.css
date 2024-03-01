@@ -300,8 +300,7 @@ section.box-2{
     padding-bottom: 24px;
 }
 
-/* .center{
-    width: min-content;
-    margin: 0 auto;
-    display: inline-block;
-} */
+ .center{ 
+   position: relative;
+   left: 100px;
+} 
