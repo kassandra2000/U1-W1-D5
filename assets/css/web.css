@@ -293,10 +293,11 @@ section.box-2{
     margin: 0 ;
 }
 
-section.border.box3{
+#box3{
     height: 422px;
     position: relative;
     top: -44px;
+    padding-bottom: 24px;
 }
 
 /* .center{
